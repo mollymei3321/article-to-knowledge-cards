@@ -1,0 +1,2 @@
+# Local input documents are excluded from public releases.
+/upload export-ignore

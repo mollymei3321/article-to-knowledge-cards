@@ -1,0 +1,5 @@
+# Local input documents are excluded from public releases.
+/upload/
+
+# Local agent configuration.
+/.codex/
